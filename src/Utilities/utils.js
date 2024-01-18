@@ -4,7 +4,7 @@ const API_URL = process.env.REACT_APP_BASE_URL;
 
 const getHash = (ts, secretKey, publicKey) => {
     return MD5(ts + secretKey + publicKey).toString();
-}
+};
 
 const fetchHeroes = async (value) => {
     let baseUrl = `${API_URL}/v1/public/characters`;
@@ -48,4 +48,4 @@ const fetchHero = async (id) => {
     }
 }
 
-export {fetchHeroes, fetchHero};
+export {fetchHeroes, fetchHero, getHash};
