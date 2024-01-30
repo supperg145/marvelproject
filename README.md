@@ -72,6 +72,7 @@ If not done already, navigate to your React application's root directory in the 
 
 ```bash
 npm install
+```
 
 # 2. Start the Development Server
 
@@ -79,7 +80,7 @@ Once the dependencies are installed, launch the development server with the foll
 
 ```bash
 npm start
-
+```
 ## 3. View Your Application
 
 Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) if it doesn't open automatically. You should see your Marvel-themed React application.
