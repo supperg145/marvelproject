@@ -1,5 +1,21 @@
 # Marvel Heroes React App Documentation
 
+# Technologies Used
+
+- **React**: The front-end of the application is built using React v18.2.0, a JavaScript library for building user interfaces.
+
+- **Node.js**: The back-end development may involve the use of Node.js (version not specified) for server-side scripting.
+
+- **npm (Node Package Manager)**: npm is used for package management, enabling the installation and management of project dependencies.
+
+# Versions
+
+- **React Version**: 18.2.0
+
+- **Node.js Version**: 20.11.0
+
+- **npm Version**: 10.2.5
+
 
 # Setting Up Marvel API in Your React Application
 
